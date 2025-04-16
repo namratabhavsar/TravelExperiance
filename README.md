@@ -34,7 +34,7 @@ This API allows you to manage travel experiences, including trips, activities, a
 
 ## API Endpoints
 
-1. ***GET all trips***
+1.***GET all trips***
 GET: https://localhost:portnumber/api/Trips
 
 2.***GET trip by Id***
